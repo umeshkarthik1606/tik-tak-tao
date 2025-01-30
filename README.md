@@ -6,5 +6,5 @@ Game that is fun to play when bored
 - cd Tic-Tac-Toe
 - python main.py
 
-![image alt](https://github.com/umeshkarthik1606/tik-tak-tao/blob/main/preview.gif)
+![image alt]("C:\Users\UMESH\OneDrive\Desktop\New folder\Tic-Tac-Toe-master\images\preview.gif")
 ![image alt](https://github.com/umeshkarthik1606/tik-tak-tao/blob/main/screenshot.png)
