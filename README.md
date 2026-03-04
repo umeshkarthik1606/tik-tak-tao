@@ -3,7 +3,7 @@ Game that is fun to play when bored
 
 ## Runnung Tik-Tak-Tao
 ```ruby
-git clone https://github.com/umeshkarthik1606/tik-tak-tao.git
+git clone https://github.com/umeshkarthik1606/tik-tak-tao
 cd Tic-Tac-Toe
 python main.py
 ```
